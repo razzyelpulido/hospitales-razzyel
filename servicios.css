@@ -1,0 +1,249 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 10px 0px;
+    border-bottom: 1px solid #000000;
+    z-index: 100;
+}
+li {
+    /*Para alinear uno al lado de otro*/
+    display: inline-block;
+    /*Espaciado*/
+    padding: 0px 20px;
+    /*Quitar la viñeta de cada enlace*/
+    list-style: none;
+}
+a {
+    font-size: 16px;
+    /*Quitar el subrayador*/
+    text-decoration: none;
+    /*Poner las letras en mayúsculas*/
+    text-transform: uppercase;
+    /*Poner letras en negritas*/
+    font-weight: 700px;
+    color: #0834c4;
+}
+a:hover {
+    color: #08f7ff;
+}
+.logo {
+    width: 150px;
+}
+.btn {
+    background-color: #0834c4;
+    padding: 10px 25px;
+    border-radius: 50px;
+    color: #fff;
+}
+.btn:hover {
+    background-color: #08f7ff;
+    color: #fff;
+}
+
+.c1{
+    width: 70%;
+    height: 100px;
+    background-color: #fff;
+    float: left;
+    margin: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    border: 10px solid #fff;
+}
+
+.img1{
+    width: 280px;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 200px;
+    border-radius: 300px;
+}
+
+.h1{
+    color: #071e69;
+}
+
+.h3{
+    color: #0834c4;
+}
+
+.p1{
+    font-size: large;
+}
+
+.c3{
+    width: 21%;
+    height: 150px;
+    background-color: #0c1535;
+    float: left;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #0d5c70;
+}
+
+.c4{
+    width: 21%;
+    height: 150px;
+    background-color: #0c1535;
+    float: left;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #0d5c70;
+}
+
+.c5{
+    width: 21%;
+    height: 150px;
+    background-color: #0c1535;
+    float: left;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #0d5c70;
+}
+
+.c6{
+    width: 21%;
+    height: 150px;
+    background-color: #0c1535;
+    float: left;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #0d5c70;
+}
+
+.h2-1{
+    color: #0288d6;
+}
+
+.h3-1{
+    color: #023dff;
+}
+
+.h3-2{
+    color: #023dff;
+}
+
+.h3-3{
+    color: #023dff;
+}
+
+.h3-4{
+    color: #023dff;
+}
+
+.p2{
+    color: #fff;
+}
+
+.p3{
+    color: #fff;
+}
+
+.p4{
+    color: #fff;
+}
+
+.p5{
+    color: #fff;
+}
+
+.c7{
+    width: 21%;
+    height: 200px;
+    background-color: #0c1535;
+    float: left;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #0d5c70;
+}
+
+.c8{
+    width: 21%;
+    height: 200px;
+    background-color: #0c1535;
+    float: left;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #0d5c70;
+}
+
+.c9{
+    width: 21%;
+    height: 200px;
+    background-color: #0c1535;
+    float: left;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #0d5c70;
+}
+
+.c10{
+    width: 21%;
+    height: 200px;
+    background-color: #0c1535;
+    float: left;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #0d5c70;
+}
+
+.p6{
+    color: #fff;
+}
+
+.p7{
+    color: #fff;
+}
+
+.p8{
+    color: #fff;
+}
+
+.p9{
+    color: #fff;
+}
+
+.h2-2{
+    color: #0288d6;
+}
